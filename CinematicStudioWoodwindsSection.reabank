@@ -1,0 +1,47 @@
+//=================================================================
+// Source: 3YY3
+// https://github.com/3YY3/cinematic-studio-reaticulate-templates
+//=================================================================
+
+//! g="Cinematic Studio" n="Woodwinds Section"
+//! id=1a4ef620-5a2e-4366-be79-d52dc5dc77ec
+Bank * * Woodwinds Section
+
+//! c=legato i=legato-fast o=cc:58,0
+34 Sustain: Standard Legato
+
+//! c=legato-dark i=legato o=cc:58,6
+35 Sustain: Expressive Legato
+
+//! c=short i=spiccato-breath o=cc:58,11
+36 Repetitions
+
+//! c=short i=Staccatissimo o=cc:58,16
+37 Staccatissimo
+
+//! c=short i=staccato o=cc:58,21
+38 Staccato
+
+//! c=short i=sfz o=cc:58,26
+39 Sfz
+
+//! c=long i=trill o=cc:58,46
+40 Trills
+
+//! c=long i=tremolo o=cc:58,51
+41 Flutter Tongue (Flutes only)
+
+//! c=short i=spiccato-breath o=cc:58,61
+42 Measured repetitions
+
+//! c=long i=marcato-half o=cc:58,66
+43 Marcato without overlay
+
+//! c=long i=marcato-half o=cc:58,71
+44 Marcato with overlay
+
+//! i=legato o=cc:58,76
+45 Legato On
+
+//! o=cc:58,81
+46 Legato Off
